@@ -1,6 +1,13 @@
 # Docker Project
+   Small Project Servlet/Postgres/Docker
+   
+## URL's:
 
-
+- GET: [localhost:8080/my-webapp/ol](localhost:8080/my-webapp/ola) - Msm HelloWorld
+- GET: [localhost:8080/my-webapp/book_entities](localhost:8080/my-webapp/book_entities) - Create database and table in PostgreSQL
+- POST: [localhost:8080/my-webapp/books](localhost:8080/my-webapp/books) - Insert one register of test
+- List: [localhost:8080/my-webapp/books](localhost:8080/my-webapp/books) - List inserted books
+   
 ## Clone and execute
 
 1. Clone the project

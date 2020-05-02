@@ -35,11 +35,11 @@ docker container kill my-webapp my-database
 
 - **Note:** The "kill" command is faster than the "stop" command
 
-2.Remove containers:
+2. Remove containers:
 ```
 docker container rm my-webapp my-database
 ```
-3.Remove image:
+3. Remove image:
 ```
 docker rmi my-tomcat:1.0
 ```

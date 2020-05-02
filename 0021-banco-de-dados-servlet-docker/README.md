@@ -6,7 +6,7 @@
 - GET: [localhost:8080/my-webapp/ola](http://localhost:8080/my-webapp/ola) - Msg of HelloWorld
 - GET: [localhost:8080/my-webapp/book_entities](http://localhost:8080/my-webapp/book_entities) - Create database and table in PostgreSQL
 - POST: [localhost:8080/my-webapp/books](http://localhost:8080/my-webapp/books) - Insert one register of test
-- List: [localhost:8080/my-webapp/books](http://localhost:8080/my-webapp/books) - List inserted books
+- List: [localhost:8080/my-webapp/books](http://localhost:8080/my-webapp/books) - List inserted test records
    
 ## Clone and execute
 

@@ -12,7 +12,7 @@
 
 1. Clone the project
 ```
-clone marcoseduardos...
+clone https://github.com/marcoseduardoss/ees-devops-desenvolvimento-web.git
 ```
 
 2. Compile the project

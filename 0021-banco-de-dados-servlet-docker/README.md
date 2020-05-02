@@ -39,8 +39,8 @@ docker container kill my-webapp my-database
 ```
 docker container rm my-webapp my-database
 ```
+- **Note:** For remove all containers, execute: "docker container prune"
 3. Remove image:
 ```
 docker rmi my-tomcat:1.0
 ```
-- **Note:** For remove all containers, execute: "docker container prune"

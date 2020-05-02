@@ -31,9 +31,9 @@ docker-compose up -d
 ```
 docker container kill my-webapp my-database
 ```
-- Note: For stop all containers, execute: "docker container kill $(docker container ls -aq)"
+- **Note:** For stop all containers, execute: "docker container kill $(docker container ls -aq)"
 
-- Note: **Kill** option is faster with **stop**
+- **Note:** The "kill" command is faster than the "stop" command
 
 2.Remove containers:
 ```
@@ -43,4 +43,4 @@ docker container rm my-webapp my-database
 ```
 docker rmi my-tomcat:1.0
 ```
-- Note: For remove all containers, execute: "docker container prune"
+- **Note:** For remove all containers, execute: "docker container prune"

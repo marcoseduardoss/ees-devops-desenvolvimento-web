@@ -3,10 +3,10 @@
    usando [GitHub Pages](https://pages.github.com/)
 ## URL's:
 
-- GET: [localhost:8080/my-webapp/ola](localhost:8080/my-webapp/ola) - Msg of HelloWorld
-- GET: [localhost:8080/my-webapp/book_entities](localhost:8080/my-webapp/book_entities) - Create database and table in PostgreSQL
-- POST: [localhost:8080/my-webapp/books](localhost:8080/my-webapp/books) - Insert one register of test
-- List: [localhost:8080/my-webapp/books](localhost:8080/my-webapp/books) - List inserted books
+- GET: [localhost:8080/my-webapp/ola](http://localhost:8080/my-webapp/ola) - Msg of HelloWorld
+- GET: [localhost:8080/my-webapp/book_entities](http://localhost:8080/my-webapp/book_entities) - Create database and table in PostgreSQL
+- POST: [localhost:8080/my-webapp/books](http://localhost:8080/my-webapp/books) - Insert one register of test
+- List: [localhost:8080/my-webapp/books](http://localhost:8080/my-webapp/books) - List inserted books
    
 ## Clone and execute
 
